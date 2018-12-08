@@ -1,4 +1,4 @@
-# Sanders-tweets
+# Sanders-Tweets
 
 This is the Sanders Twitter dataset. Please use the following citation if you use the dataset.
 
