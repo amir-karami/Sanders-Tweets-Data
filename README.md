@@ -5,7 +5,7 @@ This is the Sanders Twitter dataset. Please use the following citation if you us
 Karami, A., Elkouri, A.(2019) Political popularity analysis in social media. The iConference Proceedings.
 
 
-File Format
+File Format:
 
 Due to Twitter's terms of service, we can only release the tweet ids.
 
